@@ -9,9 +9,11 @@ title: SENet
 description: Rants
 author:
   name: Jason Thigpen
+  email: darwin@senet.us
   github: cdarwin
   twitter: cdarw1n
   bio: Operations and Infrastructure Automation Enthusiast
+  email_md5: ce115de5f89adcf69bb8ef0e5bfa8e88
 
 rss_path: feed.xml
 categories_path: categories.html
