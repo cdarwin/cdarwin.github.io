@@ -1,4 +1,10 @@
-# The Circus
+---
+layout: post
+title: The Circus
+categories: [general]
+tags: [hackathon]
+fullview: true
+---
 
 The evening of February 24, 2014, a friend and coworker invited me join his team to participate in the [Launch Hackathon](http://hackathon.launch.co/) event over the weekend. Who wouldn't jump at the chance to greenfield an idea, work on it for 48 hours, and see where things go? We assembled for lunch on Friday and came up with an idea that fit the strengths of the team.
 
